@@ -1,0 +1,39 @@
+{
+  "_id": "WFQS2vT8ddrFjTJg",
+  "name": "Parchment",
+  "type": "loot",
+  "img": "icons/sundries/documents/document-symbol-circle-gold-red.webp",
+  "system": {
+    "description": {
+      "value": "<p>A single sheet of heavier parchment paper.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "SRD 5.1",
+    "quantity": 1,
+    "weight": 0,
+    "price": {
+      "value": 1,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.1.0",
+    "coreVersion": "10.291",
+    "createdTime": 1661787233688,
+    "modifiedTime": 1671220961427,
+    "lastModifiedBy": "dnd5ebuilder0000"
+  }
+}

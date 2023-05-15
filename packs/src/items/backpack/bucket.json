@@ -1,0 +1,51 @@
+{
+  "_id": "mQVYcHmMSoCUnBnM",
+  "name": "Bucket",
+  "type": "backpack",
+  "img": "icons/containers/kitchenware/mug-steel-wood-brown.webp",
+  "system": {
+    "description": {
+      "value": "<p>A bucket holds 3 gallons of liquid or ½ cubic foot of solids.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "SRD 5.1",
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 5,
+      "denomination": "cp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "capacity": {
+      "type": "weight",
+      "value": 25,
+      "weightless": false
+    },
+    "currency": {
+      "cp": 0,
+      "sp": 0,
+      "ep": 0,
+      "gp": 0,
+      "pp": 0
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.1.0",
+    "coreVersion": "10.291",
+    "createdTime": 1661787233853,
+    "modifiedTime": 1671220963977,
+    "lastModifiedBy": "dnd5ebuilder0000"
+  }
+}

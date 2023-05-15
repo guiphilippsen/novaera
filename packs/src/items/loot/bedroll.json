@@ -1,0 +1,39 @@
+{
+  "_id": "DVXmyetZuvxbzAwW",
+  "name": "Bedroll",
+  "type": "loot",
+  "img": "icons/sundries/survival/bedroll-grey.webp",
+  "system": {
+    "description": {
+      "value": "<p>Roll of cloth used by traveller to sleep in.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "SRD 5.1",
+    "quantity": 1,
+    "weight": 7,
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.1.0",
+    "coreVersion": "10.291",
+    "createdTime": 1661787233526,
+    "modifiedTime": 1671220958762,
+    "lastModifiedBy": "dnd5ebuilder0000"
+  }
+}
